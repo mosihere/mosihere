@@ -16,4 +16,7 @@
 | Instagram |[![Instagram Badge](https://img.shields.io/badge/-@mosihere-skyblue?style=circle&labelColor=white&logo=instagram&logoColor=purple&link=https://instagram.com/mosihere)](https://instagram.com/mosihere)  |
 | Linked in | [![Linked in Badge](https://img.shields.io/badge/-@Mostafa.khoshhal-skyblue?style=circle&labelColor=blue&logo=linkedin&logoColor=white&link=https://t.me/mosihere)](https://www.linkedin.com/in/mostafa-khoshhal-40765b192)  |
 | Telegram |[![Telegram Badge](https://img.shields.io/badge/-@mosihere-skyblue?style=circle&labelColor=fff&logo=telegram&logoColor=white&link=https://t.me/mosihere)](https://t.me/mosihere) |
+| Email | [![Email Badge](https://img.shields.io/badge/-@mosihere-skyblue?style=circle&labelColor=black&logo=email&logoColor=white&link=mostafakhoshhal@yahoo.com)](mostafakhoshhal@yahoo.com) |
+| Email | [![Twitter Badge](https://img.shields.io/badge/-@mosihere-skyblue?style=circle&labelColor=black&logo=twitter&logoColor=white&link=https://www.twitter.com/mosiwashere)](www.twitter.com/mosiwashere) |
+
 
