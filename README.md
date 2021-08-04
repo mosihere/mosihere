@@ -2,8 +2,8 @@
 
 ### **Welcome to my Github Page :)**
 - My name is **Mostafa**.
-- 22 Y.O. **_Python Developer_**.
-- studying **Software Engineering** in University.
+- 23 Y.O. **_Python Developer_**.
+- University Student.
 - also I'm Learning **Django**.
 - GNU/Linux & Open Source Lover.
 
