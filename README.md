@@ -2,7 +2,7 @@
 
 ### **Welcome to my Github Page :)**
 - My name is **Mostafa**.
--**_Python Developer_**.
+- **Python** Developer.
 - University Student.
 - also I'm Learning **Django**.
 - GNU/Linux & Open Source Lover.
