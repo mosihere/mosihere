@@ -1,10 +1,7 @@
 ![N|Solid](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
-### **Welcome to my Github Page :)**
-- My name is **Mostafa**.
-- **Python** Developer.
-- University Student.
-- also I'm Learning **Django**.
+### **Welcome Buddy:)**
+- **Python/Django** Developer.
 - GNU/Linux & Open Source Lover.
 
 
